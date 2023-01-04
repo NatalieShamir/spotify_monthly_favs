@@ -30,4 +30,16 @@
   height: 50px;
   border-radius: 5px;
   margin-right: 16px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.track__summary {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.track__separator {
+  display: none;
 }
