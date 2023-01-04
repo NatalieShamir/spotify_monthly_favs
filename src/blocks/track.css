@@ -1,7 +1,7 @@
 .track__item {
   padding: 16px 12px;
   text-align: left;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.2;
   margin: 0 -16px;
   display: flex;
@@ -15,4 +15,19 @@
   font-weight: 700;
   color: rgb(193, 186, 186);
   font-size: 14px;
+}
+
+.track__info {
+  display: flex;
+  align-items: center;
+  flex: 3 1;
+}
+
+.track__image {
+  background-image: url("https://i.scdn.co/image/ab67616d00004851bd2feaef7519dbfbc402201e");
+  width: 40px;
+  min-width: 40px;
+  height: 50px;
+  border-radius: 5px;
+  margin-right: 16px;
 }
