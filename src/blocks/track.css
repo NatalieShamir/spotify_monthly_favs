@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+.track__item:hover {
+  cursor: pointer;
+}
+
 .track__order-number {
   text-align: right;
   margin-right: 20px;
