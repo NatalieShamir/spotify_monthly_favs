@@ -40,6 +40,11 @@
   flex-direction: column-reverse;
 }
 
+.track__title {
+  margin-bottom: 3.2px;
+  font-weight: 700;
+}
+
 .track__separator {
   display: none;
 }
